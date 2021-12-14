@@ -15,7 +15,6 @@ namespace MusicHub.Infrastructure
         [MaxLength(Constants.MAX_LENGTH_NAME)]
         public string Name { get; set; }
 
-        [Required]
         [MaxLength(Constants.MAX_LENGTH_PSEUDONYM)]
         public string Pseudonym { get; set; }
 

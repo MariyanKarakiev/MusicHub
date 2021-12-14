@@ -5909,11 +5909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PU Programming\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj",
+      "projectUniqueName": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj",
       "projectName": "MusicHub.Core",
-      "projectPath": "D:\\PU Programming\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj",
+      "projectPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj",
       "packagesPath": "C:\\Users\\mariq\\.nuget\\packages\\",
-      "outputPath": "D:\\PU Programming\\MusicHub\\MusicHub.Core\\obj\\",
+      "outputPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -5937,8 +5937,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\PU Programming\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj": {
-              "projectPath": "D:\\PU Programming\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj"
+            "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj": {
+              "projectPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj"
             }
           }
         }

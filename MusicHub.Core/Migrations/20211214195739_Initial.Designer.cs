@@ -10,7 +10,7 @@ using MusicHub.Core;
 namespace MusicHub.Core.Migrations
 {
     [DbContext(typeof(MusicHubDbContext))]
-    [Migration("20211214110913_Initial")]
+    [Migration("20211214195739_Initial")]
     partial class Initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -183,7 +183,6 @@ namespace MusicHub.Core.Migrations
                         .HasMaxLength(50);
 
                     b.Property<string>("Pseudonym")
-                        .IsRequired()
                         .HasColumnType("nvarchar(20)")
                         .HasMaxLength(20);
 

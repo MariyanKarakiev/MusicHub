@@ -181,7 +181,6 @@ namespace MusicHub.Core.Migrations
                         .HasMaxLength(50);
 
                     b.Property<string>("Pseudonym")
-                        .IsRequired()
                         .HasColumnType("nvarchar(20)")
                         .HasMaxLength(20);
 

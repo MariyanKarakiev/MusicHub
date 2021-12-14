@@ -25,6 +25,8 @@
 
         public DbSet<Performer> Performers { get; set; }
 
+        public DbSet<SongPerformer> SongPerformers { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

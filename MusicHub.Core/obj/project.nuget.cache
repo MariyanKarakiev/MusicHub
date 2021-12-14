@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1mGMiB6SueeoZ74xJANuD7dw59KIh7ei5PLk0lH+APm2dLWcejw4IPrjDVvNLLXl0OV75K0skJuxI+apoiI/pg==",
+  "dgSpecHash": "pnCwfnyAMRMgj7x7s9os9aIQEKru7xFsMb5zpMJ/KJB8NNgx2pkjP4yggqru1YmYwyOA2ZJwOkcYqiaz9zzlww==",
   "success": true,
-  "projectFilePath": "D:\\PU Programming\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj",
+  "projectFilePath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mariq\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.12\\microsoft.aspnetcore.connections.abstractions.3.1.12.nupkg.sha512",
     "C:\\Users\\mariq\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\3.1.12\\microsoft.aspnetcore.http.connections.client.3.1.12.nupkg.sha512",

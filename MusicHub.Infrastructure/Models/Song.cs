@@ -10,7 +10,6 @@ namespace MusicHub.Infrastructure
 {
     public class Song
     {
-
         [Key]
         public int Id { get; set; }
 

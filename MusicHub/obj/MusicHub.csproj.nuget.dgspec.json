@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PU Programming\\MusicHub\\MusicHub\\MusicHub.csproj": {}
+    "D:\\PU Programming\\Github\\MusicHub\\MusicHub\\MusicHub.csproj": {}
   },
   "projects": {
-    "D:\\PU Programming\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj": {
+    "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PU Programming\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj",
+        "projectUniqueName": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj",
         "projectName": "MusicHub.Core",
-        "projectPath": "D:\\PU Programming\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj",
+        "projectPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj",
         "packagesPath": "C:\\Users\\mariq\\.nuget\\packages\\",
-        "outputPath": "D:\\PU Programming\\MusicHub\\MusicHub.Core\\obj\\",
+        "outputPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\PU Programming\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj": {
-                "projectPath": "D:\\PU Programming\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj"
+              "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj": {
+                "projectPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "D:\\PU Programming\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj": {
+    "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PU Programming\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj",
+        "projectUniqueName": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj",
         "projectName": "MusicHub.Infrastructure",
-        "projectPath": "D:\\PU Programming\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj",
+        "projectPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\mariq\\.nuget\\packages\\",
-        "outputPath": "D:\\PU Programming\\MusicHub\\MusicHub.Infrastructure\\obj\\",
+        "outputPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -162,14 +162,14 @@
         }
       }
     },
-    "D:\\PU Programming\\MusicHub\\MusicHub\\MusicHub.csproj": {
+    "D:\\PU Programming\\Github\\MusicHub\\MusicHub\\MusicHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PU Programming\\MusicHub\\MusicHub\\MusicHub.csproj",
+        "projectUniqueName": "D:\\PU Programming\\Github\\MusicHub\\MusicHub\\MusicHub.csproj",
         "projectName": "MusicHub",
-        "projectPath": "D:\\PU Programming\\MusicHub\\MusicHub\\MusicHub.csproj",
+        "projectPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub\\MusicHub.csproj",
         "packagesPath": "C:\\Users\\mariq\\.nuget\\packages\\",
-        "outputPath": "D:\\PU Programming\\MusicHub\\MusicHub\\obj\\",
+        "outputPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -193,8 +193,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\PU Programming\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj": {
-                "projectPath": "D:\\PU Programming\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj"
+              "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj": {
+                "projectPath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Core\\MusicHub.Core.csproj"
               }
             }
           }

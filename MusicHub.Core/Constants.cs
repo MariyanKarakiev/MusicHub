@@ -16,7 +16,7 @@ namespace MusicHub.Core
         public const int MIN_LENGTH_NAME = 2;
         public const int MIN_LENGTH_TITLE = 2;
         public const int MIN_LENGTH_PSEUDONYM = 2;
-        public const int MIN_LENGTH_COUNTRY = 4;
+        public const int MIN_LENGTH_COUNTRY = 2;
         public const int MIN_LENGTH_PHONENUMBER = 10;
         public const int MIN_LENGTH_URL = 5;
     }

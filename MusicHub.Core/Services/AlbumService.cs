@@ -88,7 +88,7 @@ namespace MusicHub.Core.Services
         }
         public async Task<int> Count()
         {
-            return await repo.AllReadonly<Song>().CountAsync();
+            return await repo.AllReadonly<Album>().CountAsync();
         }
     }
 }

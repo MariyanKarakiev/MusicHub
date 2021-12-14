@@ -1,23 +1,18 @@
-﻿using System;
+﻿using MusicHub.Infrastructure.Commons;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Text;
 
 namespace MusicHub.Infrastructure
 {
     public class Album
     {
-        public Album()
-        {
-            this.Songs = new HashSet<Song>();
-        }
-
         [Key]
         public int Id { get; set; }
 
         [Required]
-        [MaxLength(40)]
+        [MaxLength(Constants.MAX_LENGTH_NAME)]
         public string Name { get; set; }
 
         [Required]
@@ -29,6 +24,11 @@ namespace MusicHub.Infrastructure
         [ForeignKey(nameof(Producer))]
         public int? ProducerId { get; set; }
         public Producer Producer { get; set; }
+       
+        public Album()
+        {
+            this.Songs = new HashSet<Song>();
+        }
 
         public virtual ICollection<Song> Songs { get; set; }
 

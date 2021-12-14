@@ -10,7 +10,6 @@ namespace MusicHub.Core.Models
         [Required]
         public int Id { get; set; }
 
-
         [Required]
         [MaxLength(Constants.MAX_LENGTH_NAME, ErrorMessage = "{0} is too long!")]
         [MinLength(Constants.MIN_LENGTH_NAME, ErrorMessage = "{0} must be at least {1} letters long!")]

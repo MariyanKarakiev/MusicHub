@@ -8,7 +8,6 @@ namespace MusicHub.Infrastructure
 {
     public class SongPerformer
     {
-
         [ForeignKey(nameof(Song))]
         public int SongId { get; set; }
         public Song Song { get; set; }
@@ -17,7 +16,5 @@ namespace MusicHub.Infrastructure
         [ForeignKey(nameof(Performer))]
         public int PerformerId { get; set; }
         public Performer Performer { get; set; }
-
-
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cyh9MksaktXhNXX+bXhOWrao9w3RUPZizJk8dnrO+p7egkVCVzoCMMCgbzG8Y0uBl4aKaOyXsQJJ4XMev1qrtA==",
+  "dgSpecHash": "qgalRf8yqCur2h44exyFtS39B1P+PRwWmVHDRD98g8jaKtC7A1zAbKG1Is6kScxTdmkI3ARMKY40//KgEuj1kg==",
   "success": true,
-  "projectFilePath": "D:\\PU Programming\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj",
+  "projectFilePath": "D:\\PU Programming\\Github\\MusicHub\\MusicHub.Infrastructure\\MusicHub.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mariq\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mariq\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
