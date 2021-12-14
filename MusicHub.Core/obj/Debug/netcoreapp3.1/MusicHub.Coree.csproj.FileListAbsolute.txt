@@ -1,0 +1,13 @@
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\bin\Debug\netcoreapp3.1\MusicHub.Coree.deps.json
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\bin\Debug\netcoreapp3.1\MusicHub.Coree.dll
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\bin\Debug\netcoreapp3.1\MusicHub.Coree.pdb
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.dll
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.pdb
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\obj\Debug\netcoreapp3.1\MusicHub.Coree.csproj.AssemblyReference.cache
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\obj\Debug\netcoreapp3.1\MusicHub.Coree.GeneratedMSBuildEditorConfig.editorconfig
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\obj\Debug\netcoreapp3.1\MusicHub.Coree.AssemblyInfoInputs.cache
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\obj\Debug\netcoreapp3.1\MusicHub.Coree.AssemblyInfo.cs
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\obj\Debug\netcoreapp3.1\MusicHub.Coree.csproj.CoreCompileInputs.cache
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\obj\Debug\netcoreapp3.1\MusicHub.Coree.csproj.CopyComplete
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\obj\Debug\netcoreapp3.1\MusicHub.Coree.dll
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Model\obj\Debug\netcoreapp3.1\MusicHub.Coree.pdb

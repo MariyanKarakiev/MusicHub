@@ -1,0 +1,40 @@
+D:\PU Programming\Web\MusicHub\MusicHub.Infrastructure\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.deps.json
+D:\PU Programming\Web\MusicHub\MusicHub.Infrastructure\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.dll
+D:\PU Programming\Web\MusicHub\MusicHub.Infrastructure\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.pdb
+D:\PU Programming\Web\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.csproj.AssemblyReference.cache
+D:\PU Programming\Web\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PU Programming\Web\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.AssemblyInfoInputs.cache
+D:\PU Programming\Web\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.AssemblyInfo.cs
+D:\PU Programming\Web\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PU Programming\Web\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.dll
+D:\PU Programming\Web\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.pdb
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.deps.json
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.dll
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.pdb
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.csproj.AssemblyReference.cache
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.AssemblyInfoInputs.cache
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.AssemblyInfo.cs
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.dll
+D:\PU Programming\Web\New folder\MusicHubMasterNw\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.pdb
+D:\PU Programming\Web\MusicHub\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.deps.json
+D:\PU Programming\Web\MusicHub\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.dll
+D:\PU Programming\Web\MusicHub\MusicHub.Data\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.pdb
+D:\PU Programming\Web\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.csproj.AssemblyReference.cache
+D:\PU Programming\Web\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PU Programming\Web\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.AssemblyInfoInputs.cache
+D:\PU Programming\Web\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.AssemblyInfo.cs
+D:\PU Programming\Web\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PU Programming\Web\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.dll
+D:\PU Programming\Web\MusicHub\MusicHub.Data\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.pdb
+D:\PU Programming\MusicHub\MusicHub.Infrastructure\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.deps.json
+D:\PU Programming\MusicHub\MusicHub.Infrastructure\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.dll
+D:\PU Programming\MusicHub\MusicHub.Infrastructure\bin\Debug\netcoreapp3.1\MusicHub.Infrastructure.pdb
+D:\PU Programming\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.csproj.AssemblyReference.cache
+D:\PU Programming\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PU Programming\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.AssemblyInfoInputs.cache
+D:\PU Programming\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.AssemblyInfo.cs
+D:\PU Programming\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.csproj.CoreCompileInputs.cache
+D:\PU Programming\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.dll
+D:\PU Programming\MusicHub\MusicHub.Infrastructure\obj\Debug\netcoreapp3.1\MusicHub.Infrastructure.pdb
